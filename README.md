@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @FelipeGarcia27
+- 👋 Hi, I’m Felipe.
 - 👀 I’m interested in Back end development
-- 🌱 I’m currently learning Javascripting and Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C#
 - 📫 How to reach me felipesilva2798@gmail.com
 
 <!---
